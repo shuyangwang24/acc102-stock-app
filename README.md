@@ -28,7 +28,7 @@ streamlit run app.py
 
 ## 6. Links
 - **GitHub Repository**: https://github.com/shuyangwang24/acc102-stock-app
-- **Demo Video**: [Replace with your video link]
+- **Demo Video**: [https://www.bilibili.com/video/BV1VEoFB8EAj/?vd_source=b1d7725103a178f8527797c6538ed127]
 
 ## 7. Limitations & Next Steps
 - Only three stocks included. Could expand to more sectors.
